@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\bin\Debug\netcoreapp3.0\Задача 4.exe
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\bin\Debug\netcoreapp3.0\Задача 4.deps.json
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\bin\Debug\netcoreapp3.0\Задача 4.runtimeconfig.json
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\bin\Debug\netcoreapp3.0\Задача 4.runtimeconfig.dev.json
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\bin\Debug\netcoreapp3.0\Задача 4.dll
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\bin\Debug\netcoreapp3.0\Задача 4.pdb
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\obj\Debug\netcoreapp3.0\Задача 4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\obj\Debug\netcoreapp3.0\Задача 4.AssemblyInfo.cs
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\obj\Debug\netcoreapp3.0\Задача 4.dll
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\obj\Debug\netcoreapp3.0\Задача 4.pdb
+C:\Users\User\source\repos\АСД_Задачи\АСД_Задачи\obj\Debug\netcoreapp3.0\Задача 4.csprojAssemblyReference.cache
